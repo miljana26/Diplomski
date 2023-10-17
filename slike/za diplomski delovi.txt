@@ -1,0 +1,104 @@
+Sotki dioda:
+1) 
+https://eu.mouser.com/ProductDetail/onsemi/NSR20F40NXT5G?qs=Tr3lMbyRyKlnDYqqgtCWgQ%3D%3D
+technology: Si
+forward current 2A
+reverse current 150uA
+forward voltage 550mV
+forward surge current 28A
+power dissipation 665mW
+cena: 0.61€
+
+2) 
+https://eu.mouser.com/ProductDetail/ROHM-Semiconductor/RBE2EA20ATR?qs=4v%252BiZTmLVHEkoK7S%2FuqITA%3D%3D
+technology: Si
+forward current 2A
+reverse current 700uA
+forward voltage 390mV
+forward surge current 5A
+cena: 0.58€
+
+3) (mislim da je ovo oke)
+https://eu.mouser.com/ProductDetail/ROHM-Semiconductor/RB060MM-60TFTR?qs=4v%252BiZTmLVHF2l8aCgVl0sw%3D%3D
+technology: Si
+forward current 2A
+reverse current 50uA
+forward voltage 610mV
+forward surge current 30A
+cena: 0.44€
+
+________________________________________________________________________________________________________________
+NPN:
+1) 
+https://eu.mouser.com/ProductDetail/onsemi-Fairchild/FJV42MTF?qs=1e7cUg5%2FiX%252BIBRIQEMDTBw%3D%3D
+Colector emitter voltage max: 350V
+colector base voltage 350V
+emiter base voltage 6V
+max DC collector curent 500mA
+power dissipation 350mW
+Continuous Collector Current 500mA
+hfe min 40
+cena: 0.35€
+
+2) 
+https://eu.mouser.com/ProductDetail/ROHM-Semiconductor/2SCR502U3T106?qs=bZr6mbWTK5nSrY76nzRhTg%3D%3D
+Colector emitter voltage max: 30V
+colector base voltage 30V
+emiter base voltage 6V
+max DC collector curent 200mA
+power dissipation 200mW
+Continuous Collector Current 500mA
+hfe min 200
+hfe max 500
+cena: 0.40€
+
+________________________________________________________________________________________________________________
+NMOSFET:
+1) 
+https://eu.mouser.com/ProductDetail/Vishay-Semiconductors/SI4838DY-T1-E3?qs=mGlKYcwGutvZTh41%252Bk3TJA%3D%3D
+Vds 12V
+Vgs -8V, +8V
+Rdson 3m
+continuous drain current 25A
+Vgs threshold 600mV
+gate charge 60nC
+power dissipation 3.5W
+cena: 2.93€
+
+2) 
+https://eu.mouser.com/ProductDetail/Diodes-Incorporated/DMN2005UPS-13?qs=MNIFWdyJgbotoGXQ%252BpE71A%3D%3D
+Vds 20V
+Vgs -12V, +12V
+Rdson 4.6m
+continuous drain current 20A
+Vgs threshold 400mV
+gate charge 142nC
+power dissipation 3W
+cena: 0.82€
+
+3) 
+https://eu.mouser.com/ProductDetail/onsemi-Fairchild/FDN327N?qs=taDQNAOcNDG4a4nPAHGSHQ%3D%3D
+Vds 20V
+Vgs -8V, +8V
+Rdson 40m
+continuous drain current 20A
+Vgs threshold 400mV
+gate charge 6.3nC
+power dissipation 500mW
+cena: 0.46€
+
+4) 
+https://eu.mouser.com/ProductDetail/Diodes-Incorporated/DMN2058U-7?qs=G1ssh2j%252Bqz5xShP2%2FdgDNQ%3D%3D
+Vds 20V
+Vgs -12V, +12V
+Rdson 35m
+continuous drain current 4.6A
+Vgs threshold 400mV
+gate charge 7.7nC
+power dissipation 1.13W
+cena: 0.38€
+________________________________________________________________________________________________________________
+shunt:
+https://eu.mouser.com/ProductDetail/Ohmite/LVK12R010CER?qs=Cb2nCFKsA8qfJ9bVKb1vFw%3D%3D
+value: 10m
+tolerance: 0,25%
